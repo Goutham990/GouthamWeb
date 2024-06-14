@@ -52,7 +52,7 @@ export default function App() {
 
              </a>
 
-             <a href="www.linkedin.com/in/goutham-5a0890256" className="linkedin" target='_blank'>
+             <a href="https://www.linkedin.com/in/goutham-5a0890256/" className="linkedin" target='_blank'>
              <img src={LinkedinIcon} alt="Youtube" className="link" />
 
 
