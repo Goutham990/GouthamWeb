@@ -1,0 +1,140 @@
+.navbar{
+    background: rgb(30, 30, 30);
+    height: 4.5rem;
+    width: 100vw;
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 2rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+
+.logo{
+    object-fit: cover;
+    /* margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem; */
+    height: 3.75rem;
+    width: 3.75rem;
+    margin: 1px;
+}
+
+.desktopMenuListItem{
+    margin: 1rem;
+    cursor: pointer;
+
+}
+
+.desktopMenuListItem:hover{
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
+}
+
+
+.desktopMenuBtn{
+    background: white;
+    margin: 1rem 0;
+    padding: 0.5rem 1.25rem;
+    border: none;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+.desktopMenuImgBtn{
+    object-fit: cover;
+    margin: 0 0.25rem;
+    height: 1rem;
+    width: 1rem; 
+
+
+}
+
+.active{
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
+}
+
+
+.mobMenu{
+    display: none;
+    object-fit: cover;
+    height: 1.8rem;
+
+}
+
+.navMenu{
+    position: absolute;
+    top: 4rem;
+    right: 2rem;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    height: fit-content;
+    min-width: 15rem;
+    background: rgb(40, 40, 40);
+    border-radius: 1rem;
+
+
+}
+
+.listItem{
+    color: white;
+    padding: 0.5rem 3rem;
+    margin: 0.25rem;
+    background: rgb(30, 30, 30);
+
+
+}
+
+@media screen and (max-width: 720px) {
+
+
+
+    .mobMenu{
+        display: flex;
+
+    }
+
+    .logo{
+        object-fit:cover;
+        height: 3rem;
+        width: 3rem;
+    }
+
+    .desktopMenu{
+        display: none;
+        height: 3rem;
+        width: 3rem;
+    }
+
+    .desktopMenuBtn{
+        display: none;
+       
+    }
+    
+}
+
+@media screen and (max-width: 870px) {
+
+    .navbar{
+        height: 4rem;
+        position: sticky;
+
+    }
+
+
+    .logo{
+        object-fit:cover;
+        height: 3rem;
+        width: 3rem;
+    }
+
+    
+    
+}

@@ -1,0 +1,59 @@
+.footer{
+    width: 100vw;
+    height: 4rem;
+    background: rgb(40, 40, 40);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 300;
+    font-size: small;
+    position: sticky;
+
+}
+
+/* .topbtn{
+
+height: 1rem;
+width: 2rem;
+    position: absolute;
+    right: 0;
+    margin-top: 2rem;
+    padding: 1rem;
+    border: none;
+    border-radius: 100%;
+    background-color: yellow;
+    cursor: pointer;
+    scroll-behavior: smooth;
+
+
+}
+
+.topbtnimg{
+
+    height: 1rem;
+    width: 2rem;
+        position: absolute;
+        right: 0;
+        margin-top: -5rem;
+        padding: 1rem;
+        border: none;
+        border-radius: 100%;
+        background-color: antiquewhite;
+        cursor: pointer;
+        scroll-behavior: smooth;
+    
+    
+    } */
+
+/* 
+.uparw{
+    height: 4rem;
+    width: 4rem;
+   
+    margin-left: 20rem;
+    margin-right: -19rem;
+}
+
+.uparw:hover{
+    color: yellow;
+} */
