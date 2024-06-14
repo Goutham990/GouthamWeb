@@ -2,7 +2,7 @@ import React, { useState } from 'react' ;
 import './navbar.css';
 import logo from '../../assets/logof.png';
 import {Link} from 'react-scroll' ;
-import contactImg from '../../assets/contact.png';
+// import contactImg from '../../assets/contact.png';
 import Menu from '../../assets/menu.png';
 
 
@@ -75,7 +75,7 @@ const Navbar = () => {
 
           <Link activeClass='active' to ='clients' spy={true} smooth={true} offset={-50} duration={500}className="listItem" onClick={()=> setShowMenu(false)}>Clients</Link> */}
 
-         <Link activeClass='active' className="desktopMenuListItem"  className="listItem" onClick={(e) => {
+         <Link activeClass='active'  className="listItem" onClick={(e) => {
       e.preventDefault();
       window.open('https://drive.google.com/file/d/1yI4YF3F-B-sUh3r923FzqhVLv5Vqu-vy/view?usp=sharing', "_blank");
       }} >Resume</Link>
