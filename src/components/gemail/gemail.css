@@ -35,6 +35,7 @@
 
 .contactPageTitile{
   font-size: 3rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 
 }
@@ -120,4 +121,20 @@
   width: 3rem;
   margin: 0 0.75rem;
 
+}
+.mailf{
+  margin: 1rem;
+
+}
+
+.mailicon{
+  display: block;
+  margin: 1rem;
+  height: 113%;
+  width: 100%;
+}
+
+.mail{
+  margin: 0 0 2.5rem 1rem;
+  color: white;
 }

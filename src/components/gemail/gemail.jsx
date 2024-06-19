@@ -65,6 +65,12 @@ export default function App() {
 
 
              </a>
+            
+
+             
+             
+
+
 
              
 
@@ -72,7 +78,24 @@ export default function App() {
             
               
             </div>
+
+            
         </form>
+        <div className='mailf'>
+      
+
+      
+        <ion-icon className="mailicon"  name="mail-outline"></ion-icon>
+             <a href="mailto:kgouthamnayak61039@gmail.com" className="mail" target='_blank' >kgouthamnayak61039@gmail.com</a>
+
+
+             {/* <ion-icon name="phone-portrait-outline"></ion-icon>
+             <a href="tel:+918688906548" class="contact-link">+(91) 7262-352-282</a> */}
+           
+
+        </div>
+        
+        
       </div>
       </section>
     </div>
