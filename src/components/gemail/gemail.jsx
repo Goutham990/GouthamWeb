@@ -47,13 +47,13 @@ export default function App() {
               
 
             <a href="https://www.instagram.com/gouthamxt/" className="insta" target='_blank'>
-             <img src={InstagramIcon} alt="Intsagram" className="link" />
+             <img src={InstagramIcon} alt="Instagram" className="link" />
 
 
              </a>
 
              <a href="https://www.linkedin.com/in/goutham-5a0890256/" className="linkedin" target='_blank'>
-             <img src={LinkedinIcon} alt="Youtube" className="link" />
+             <img src={LinkedinIcon} alt="Linkedin" className="link" />
 
 
              </a>
