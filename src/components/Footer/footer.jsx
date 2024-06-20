@@ -13,7 +13,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       
-        Copyright &#169; 2024 Goutham Nayak. All right recevied.
+        Copyright &#169; 2024 Goutham Nayak. All rights recevied.
 
         {/* <a href="/">
         <img src={uparrow} alt="uparrow" className='uparw'/>
