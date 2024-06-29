@@ -35,9 +35,36 @@ export default function App() {
           <span className="contactDesc">Need a creative caffeine fix? Hit me up!</span>
 
         <form className="contactForm" onSubmit={(e) => Submit(e)}>
-          <input className="Name" placeholder="Your Name" name="Name" type="text" />
-          <input className="Email" placeholder="Your Email" name="Email" type="text" />
-          <textarea className="Message" placeholder="Your Message" rows="5" name="Message" type="text">
+          <input className="Name" placeholder="Your Name" name="Name" type="text" required data-form-input/>
+
+
+          <input className="Email" placeholder="Your Email" name="Email" type="text" spellCheck='false' required data-form-input />
+
+
+          {/* <script>
+            var emailField = document.getElementById("email-field");
+            var emailError = document.getElementById("email-error");
+
+            function validateEmail() {
+              
+              if(!emailField.value.match(/^[A-Za-z\._\-0-9]*[@][A-Za-z]*[\.][a-z]{2,4}$/)){
+                emailError.innerHTML = "please";
+
+                return false;
+              }
+
+              emailError.innerHTML = "";
+              return true;
+            }
+
+
+
+
+          </script> */}
+
+
+
+          <textarea className="Message" placeholder="Your Message" rows="5" name="Message" type="text" required data-form-input>
                </textarea>
           <button className="submitBtn"name="Name" type="submit">Submit</button>
           <div className="links">
