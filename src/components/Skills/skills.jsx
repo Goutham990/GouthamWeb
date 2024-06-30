@@ -22,7 +22,7 @@ const Skills = () => {
 
 <div className="skillBars">
         <div className="skillBar">
-            <img src={SM} alt="OENA" className="skillBarImg" />
+            <img src={SM} alt="OENAyy" className="skillBarImg" />
 
             <div className="skillBarText">
                 <h2>Ocean Engineering and Naval Architecture</h2>
@@ -38,7 +38,7 @@ const Skills = () => {
 
             <div className="skillBarText">
                 <h2>WebDesign</h2>
-                <p >I design user-friendly, visually captivating experiences. Through research, I solve complex problems with elegant solutions that drive user satisfaction. UI/UX expertise ensures functional, beautiful, successful projects.</p>
+                <p >As an experienced Front-end developer, I can create responsive and user-friendly websites that meet your business needs. Whether you need a simple static website or a complex dynamic web application, I can help you achieve your online goals.</p>
             </div>
 
         </div>
@@ -50,7 +50,7 @@ const Skills = () => {
 
             <div className="skillBarText">
                 <h2>UI/UX Design</h2>
-                <p>As a passionate UI/UX Designer, I specialize in creating intuitive and visually appealing digital experiences. With a focus on user-centered design, I excel at transforming complex problems into elegant solutions that enhance user satisfaction and engagement. My expertise spans user research, wireframing, prototyping, and visual design, ensuring that every project I work on is both functional and aesthetically pleasing.</p>
+                <p>I design user-friendly, visually captivating experiences. Through research, I solve complex problems with elegant solutions that drive user satisfaction. UI/UX expertise ensures functional, beautiful, successful projects.</p>
             </div>
 
         </div>
