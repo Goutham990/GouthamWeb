@@ -16,7 +16,7 @@ const Intro = () => {
 
         
 
-          <p className="introPara">I am a web developer, and I'm currently pursuing a bachelor’s degree in ocean engineering and naval architecture from IIT Kharagpur.
+          <p className="introPara">I am a web developer, and I'm currently pursuing a bachelor’s degree in Ocean Engineering and Naval Architecture from IIT Kharagpur.
 <br />
 <br />
 Get to know more interesting about me!
