@@ -15,7 +15,7 @@
     right: 0;
     z-index: -1 ;
     object-fit: cover;
-    height: 80vh;
+    height: 75vh;
     margin-top: -3rem;
    
 }
@@ -186,9 +186,9 @@
      
     .introPara{
         font-size: medium;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 1px;
-        /* width: 100vw; */
+        width: 80vw;
 
     }
 
@@ -220,8 +220,8 @@
         font-size: medium;
     font-weight: 400;
     letter-spacing: 1px;
-        width: 100vw;
-        padding-right: 1.4rem;
+        width: 98vw;
+        padding-right: 1.9rem;
     
 
     }
@@ -232,7 +232,7 @@
 
     .hello{
         font-size: 4.5vw;
-        margin-top: 7rem;
+        margin-top: 10rem;
     }
 
     
