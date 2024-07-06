@@ -24,7 +24,7 @@ const Navbar = () => {
           className="desktopMenuListItem">Home</Link>
 
 
-          <Link activeClass='active' to ='skills' spy={true} smooth={true} offset={-50} duration={500}
+          <Link activeClass='active' to ='skills' spy={true} smooth={true} offset={-40} duration={500}
           
           className="desktopMenuListItem">About</Link>
 

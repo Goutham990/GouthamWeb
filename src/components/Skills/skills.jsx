@@ -22,7 +22,7 @@ const Skills = () => {
 
 <div className="skillBars">
         <div className="skillBar">
-            <img src={SM} alt="OENAyy" className="skillBarImg" />
+            <img src={SM} alt="OENA" className="skillBarImg" />
 
             <div className="skillBarText">
                 <h2>Ocean Engineering and Naval Architecture</h2>
