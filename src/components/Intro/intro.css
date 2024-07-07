@@ -118,7 +118,9 @@
 }
 
 
-@media screen and (max-width:1300px) {
+
+
+@media screen and (max-width:1500px) {
     
     .bg{
         right: 3vw;

@@ -38,7 +38,7 @@ export default function App() {
           <input className="Name" placeholder="Your Name" name="Name" type="text" required data-form-input/>
 
 
-          <input className="Email" placeholder="Your Email" name="Email" type="text" spellCheck='false' required data-form-input />
+          <input className="Email" placeholder="Your Email" name="Email" type="email" spellCheck='false' required data-form-input />
 
 
           {/* <script>
@@ -67,6 +67,11 @@ export default function App() {
           <textarea className="Message" placeholder="Your Message" rows="5" name="Message" type="text" required data-form-input>
                </textarea>
           <button className="submitBtn"name="Name" type="submit">Submit</button>
+
+
+
+{/* Links */}
+
           <div className="links">
             <a href="https://www.facebook.com/profile.php?id=100087708483886" className="fb" target='_blank'>
             <img src={FacebookIcon} alt="Facebook" className="link" />
