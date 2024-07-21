@@ -92,11 +92,11 @@ export default function App() {
              
 
              
-             <a href="https://x.com/Gouthamnayak99" className="twitter" target='_blank'>
+             {/* <a href="https://x.com/Gouthamnayak99" className="twitter" target='_blank'>
              <img src={TwitterIcon} alt="Twitter" className="link" />
 
 
-             </a>
+             </a> */}
             
 
              
