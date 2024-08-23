@@ -4,6 +4,7 @@ import FacebookIcon from '../../assets/facebook-icon.png';
 // import TwitterIcon from '../../assets/x-32px.png';
 import LinkedinIcon from '../../assets/linkedinicon.png';
 import InstagramIcon from '../../assets/instagram.png';
+import { width } from '@fortawesome/free-regular-svg-icons/faAddressBook';
 
 export default function App() {
   function Submit(e) {
@@ -79,7 +80,7 @@ export default function App() {
               
 
             <a href="https://www.instagram.com/gouthamxt/" className="insta" target='_blank'>
-             <img src={InstagramIcon} alt="Instagram" className="link" />
+             <img src={InstagramIcon} alt="Instagram" className="link"  />
 
 
              </a>
