@@ -1,7 +1,7 @@
 import React from 'react';
 import "./gemail.css";
 import FacebookIcon from '../../assets/facebook-icon.png';
-import TwitterIcon from '../../assets/x-32px.png';
+// import TwitterIcon from '../../assets/x-32px.png';
 import LinkedinIcon from '../../assets/linkedinicon.png';
 import InstagramIcon from '../../assets/instagram.png';
 
@@ -84,7 +84,7 @@ export default function App() {
 
              </a>
 
-             <a href="https://www.linkedin.com/in/goutham-5a0890256/" className="linkedin" target='_blank'>
+             <a href="https://www.linkedin.com/in/gouthamiitkgp9/" className="linkedin" target='_blank'>
              <img src={LinkedinIcon} alt="Linkedin" className="link" />
 
 
