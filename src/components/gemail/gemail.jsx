@@ -4,7 +4,7 @@ import FacebookIcon from '../../assets/facebook-icon.png';
 // import TwitterIcon from '../../assets/x-32px.png';
 import LinkedinIcon from '../../assets/linkedinicon.png';
 import InstagramIcon from '../../assets/instagram.png';
-import { width } from '@fortawesome/free-regular-svg-icons/faAddressBook';
+// import { width } from '@fortawesome/free-regular-svg-icons/faAddressBook';
 
 export default function App() {
   function Submit(e) {
