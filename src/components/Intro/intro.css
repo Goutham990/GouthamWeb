@@ -259,21 +259,29 @@
      
     .introPara{
         font-size: medium;
-    font-weight: 400;
+    font-weight: 500;
     letter-spacing: 1px;
-        width: 98vw;
-        padding-right: 1.9rem;
+        width: 100vw;
+        padding-right: 1rem;
+        padding-left: 1.2rem;
     
 
     }
 
     .introContent{
         font-size: 10vw;
+        
+    }
+    
+    .introText{
+        padding-left: 1rem;
+
     }
 
     .hello{
         font-size: 4.5vw;
         margin-top: 10rem;
+        padding-left: 1rem;
     }
 
     
