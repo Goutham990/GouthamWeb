@@ -33,7 +33,7 @@ const Navbar = () => {
       window.open('https://drive.google.com/file/d/1yI4YF3F-B-sUh3r923FzqhVLv5Vqu-vy/view?usp=sharing', "_blank");
       }} >Resume</Link>
 
-           <Link activeClass='active' to ='contact' spy={true} smooth={true} offset={-55} duration={500}className="desktopMenuListItem">Contact</Link>
+           <Link activeClass='active' to ='contact' spy={true} smooth={true} offset={-60} duration={500}className="desktopMenuListItem">Contact</Link>
 
 
 
