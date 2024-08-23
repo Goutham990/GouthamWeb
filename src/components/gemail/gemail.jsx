@@ -1,9 +1,9 @@
 import React from 'react';
 import "./gemail.css";
-import FacebookIcon from '../../assets/facebook-icon.png';
+import FacebookIcon from '../../assets/FacebookIcon.png';
 // import TwitterIcon from '../../assets/x-32px.png';
 import LinkedinIcon from '../../assets/linkedinicon.png';
-import InstagramIcon from '../../assets/instagram.png';
+import InstagramIcon from '../../assets/InstagramIcon.png';
 // import { width } from '@fortawesome/free-regular-svg-icons/faAddressBook';
 
 export default function App() {
