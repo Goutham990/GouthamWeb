@@ -123,27 +123,28 @@
 
 
 
-/* 
-@media screen and (max-width:1500px) {
+
+/* @media screen and (max-width:1180px) {
     
     .bg{
         right: 3vw;
-        height: 65vh;
+        height: 60vh;
         top: 9rem;
 
     }
     
     .introPara{
-        font-size: medium;
-    font-weight: 300;
+        font-size: large;
+    font-weight: 500;
     letter-spacing: 1px;
-        width: 45vw;
+        width: 55vw;
         
 
     }
 
     .introContent{
         font-size: 3vw;
+        padding-left: 1rem;
        
         
     }
@@ -153,32 +154,38 @@
     }
 
 
-} */
+}  */
 
 
 @media screen and (max-width:820px) {
     
     .bg{
-        right: -8vw;
-        height: 70vh;
-        top: 5rem;
+        right: 20vw;
+        height: 40vh;
+        top: 4rem;
 
     }
     
     .introPara{
-        font-size: medium;
-    font-weight: 300;
+        font-size: large;
+    font-weight: 400;
     letter-spacing: 1px;
-        /* width: 100vw;
-        padding-right: 1.4rem; */
+        width: 100vw;
+        /* padding-right: 1.4rem; */
 
     }
 
     .introContent{
         font-size: 7vw;
+        padding-left: 1rem;
        
         
     }
+
+    /* .introText{
+        padding-left: 1rem;
+
+    } */
 
     .hello{
         font-size: 4.5vw;
@@ -194,6 +201,7 @@
         height: 60vh;
         top: 5rem;
     }
+
 
      
     .introPara{
@@ -263,25 +271,26 @@
     letter-spacing: 1px;
         width: 100vw;
         padding-right: 1rem;
-        padding-left: 1.2rem;
+        /* padding-left: 1.2rem; */
     
 
     }
 
     .introContent{
         font-size: 10vw;
+        padding-left: 1rem;
         
     }
     
     .introText{
-        padding-left: 1rem;
+        /* padding-left: 1rem; */
 
     }
 
     .hello{
         font-size: 4.5vw;
         margin-top: 10rem;
-        padding-left: 1rem;
+        /* padding-left: 1rem; */
     }
 
     
