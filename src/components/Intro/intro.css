@@ -92,6 +92,7 @@
     border-radius: 2rem;
     cursor: pointer;
     scroll-behavior: smooth;
+    justify-content: space-evenly;
 }
 
 
@@ -275,6 +276,7 @@
     
 
     }
+
 
     .introContent{
         font-size: 10vw;

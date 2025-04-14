@@ -41,7 +41,13 @@ Get to know more interesting about me!
       e.preventDefault();
       window.open('https://drive.google.com/file/d/1yI4YF3F-B-sUh3r923FzqhVLv5Vqu-vy/view?usp=sharing', "_blank");
       }}>
-            <img src={btnImg} alt="Hire me" className='btnImg' />My Resume</button>
+            <img src={btnImg} alt="Hire me" className='btnImg' />My Resume(Non-Core)</button>
+<br />
+            <button className='btn'  onClick={(e) => {
+      e.preventDefault();
+      window.open('https://drive.google.com/file/d/1lBgQ_Tg5bIHairT0-__MeJTZeapuz5Z-/view', "_blank");
+      }}>
+            <img src={btnImg} alt="Hire me" className='btnImg' />My Resume(Core)</button>
 
            
             </Link>
