@@ -4,6 +4,7 @@ import FacebookIcon from '../../assets/FacebookIcon.png';
 // import TwitterIcon from '../../assets/x-32px.png';
 import LinkedinIcon from '../../assets/linkedinicon.png';
 import InstagramIcon from '../../assets/InstagramIcon.png';
+import BehanceIcon from '../../assets/Behance.png';
 // import { width } from '@fortawesome/free-regular-svg-icons/faAddressBook';
 
 export default function App() {
@@ -87,6 +88,12 @@ export default function App() {
 
              <a href="https://www.linkedin.com/in/gouthamiitkgp9/" className="linkedin" target='_blank'>
              <img src={LinkedinIcon} alt="Linkedin" className="link" />
+
+
+             </a>
+
+             <a href="https://www.behance.net/gouthamnayak3" className="Behance" target='_blank'>
+             <img src={BehanceIcon} alt="Behance" className="link" />
 
 
              </a>
