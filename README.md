@@ -27,7 +27,7 @@ I welcome contributions to my portfolio! If you have suggestions or improvements
 For any inquiries or feedback, please feel free to reach out:
 
 - **Email:** kgouthamnayak61039@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/goutham-5a0890256/)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/goutham-nayak-k/)
 - **Website:** [Your Personal Website](https://gouthamweb.vercel.app/)
 
 Thank you for visiting my portfolio. I hope you find the projects informative and inspiring!
