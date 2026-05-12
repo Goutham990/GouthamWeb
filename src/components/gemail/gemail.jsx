@@ -80,7 +80,7 @@ export default function App() {
             </a>
               
 
-            <a href="https://www.instagram.com/gouthamxt/" className="insta" target='_blank'>
+            <a href="https://www.instagram.com/goutham.artss/" className="insta" target='_blank'>
              <img src={InstagramIcon} alt="Instagram" className="link"  />
 
 
