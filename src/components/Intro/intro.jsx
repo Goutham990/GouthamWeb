@@ -45,7 +45,7 @@ Get to know more interesting about me!
 <br />
             <button className='btn'  onClick={(e) => {
       e.preventDefault();
-      window.open('https://drive.google.com/file/d/1lBgQ_Tg5bIHairT0-__MeJTZeapuz5Z-/view', "_blank");
+      window.open('https://drive.google.com/file/d/1t_-ntwUqViDLe6K5gTTUA-ZCby5JK82S/view?usp=sharing', "_blank");
       }}>
             <img src={btnImg} alt="Hire me" className='btnImg' />My Resume(Core)</button>
 
